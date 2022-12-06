@@ -53,7 +53,7 @@ imagemComplexaCinza = grayScale(lComplexa,cComplexa,imagemComplexa)
 
 
 result1 = edgeDetector(imagemSimplesCinza,200,5)
-result2 = edgeDetector(imagemSimplesCinza,230,25)
+result2 = edgeDetector(imagemSimplesCinza,200,25)
 result3 = edgeDetector(imagemComplexaCinza,200,5)
 result4 = edgeDetector(imagemComplexaCinza,230,10)
 
